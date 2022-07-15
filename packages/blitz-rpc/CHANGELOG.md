@@ -1,5 +1,13 @@
 # @blitzjs/rpc
 
+## 2.0.0-alpha.55
+
+### Patch Changes
+
+- df7cee84: Fix pipe resolver return type
+  - @blitzjs/auth@2.0.0-alpha.55
+  - blitz@2.0.0-alpha.55
+
 ## 2.0.0-alpha.54
 
 ### Patch Changes
